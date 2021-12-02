@@ -6,6 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Song921012&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song921012&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song921012&layout=compact&theme=vue&hide=javascript,html,css)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=aidishage&layuout=compact&theme=vue)
