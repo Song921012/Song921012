@@ -6,4 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Song921012)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Song921012&layuout=compact&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aidishage&layuout=compact&theme=synthwave)
