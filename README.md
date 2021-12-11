@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song921012&layout=compact&hide=javascript,html,css,Stylus,EJS)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=aidishage&layuout=compact&hide=JSON,BibTeX,INI,reStructuredText,YAML,TOML,S,HTML)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aidishage&layuout=compact&hide=JSON,BibTeX,INI,reStructuredText,YAML,TOML,S,HTML,Objective-C)
