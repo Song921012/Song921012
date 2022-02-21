@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Mathepia.jl: Spatial and temporal epidemiology data mining flow tools.](https://github.com/Song921012/Mathepia.jl)
 - 🌱 I’m currently learning scientific machine learning computation based on Julia and Python
 - 👯 I’m looking to collaborate on Mathepia.jl
-- About Me: [CV](https://song921012.github.io/MyCV/)
+- About Me: [Pengfei Website](https://song921012.github.io/)[Pengfei CV](https://github.com/Song921012/MyWebsite/blob/master/myblog/source/_posts/Pengfei%20CV.md)
 
 ![](https://github-readme-stats.vercel.app/api?username=Song921012)
 
