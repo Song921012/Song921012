@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning scientific machine learning computation based on Julia and Python
 - 👯 I’m looking to collaborate on Mathepia.jl
 - About Me: [Pengfei Website](https://song921012.github.io/); [Pengfei CV](https://github.com/Song921012/MyWebsite/blob/master/myblog/source/_posts/Pengfei%20CV.md)
+- For Wechat Users: 微信公众号：生物数学MEP
 
 ![](https://github-readme-stats.vercel.app/api?username=Song921012)
 
