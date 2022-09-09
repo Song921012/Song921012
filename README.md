@@ -6,6 +6,8 @@
 - About Me: [Pengfei Website](https://song921012.github.io/); [Pengfei CV](https://song921012.github.io/2021/02/01/Pengfei%20CV/)
 - For Wechat Users: 微信公众号：生物数学MEP
 
+Beauty comes from abstraction; art lies in refinement. 优美源于抽象; 艺术在于细化.
+
 ![](https://github-readme-stats.vercel.app/api?username=Song921012)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song921012&layout=compact&hide=javascript,html,css,Stylus,EJS)
